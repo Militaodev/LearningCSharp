@@ -16,7 +16,6 @@ namespace _3_CriandoVariaveisPontoFlutuante
             salario = 1200.70;
             Console.WriteLine(salario);
 
-
             Console.WriteLine("Aperte enter para finalizar a execução");
             Console.ReadLine();
         }
