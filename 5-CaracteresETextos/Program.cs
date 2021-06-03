@@ -26,9 +26,10 @@ namespace _5_CaracteresETextos
             Console.WriteLine(titulo);
 
             // @ serve para aceitar a quebrar linhas 
-            string cursosProgamacao = @"- Java -
+            string cursosProgamacao = 
+            @"- Java -
             - Python 
-             - Js";
+            - Js";
             Console.WriteLine(cursosProgamacao);
 
 
