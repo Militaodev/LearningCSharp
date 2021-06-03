@@ -7,7 +7,7 @@
     <ProjectGuid>{8B851158-E736-49FC-B348-9757B4437650}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_9_Escopo</RootNamespace>
-    <AssemblyName>_9_Escopo</AssemblyName>
+    <AssemblyName>9-Escopo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
