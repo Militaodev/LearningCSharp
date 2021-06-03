@@ -11,7 +11,7 @@ namespace _5_CaracteresETextos
         static void Main(string[] args)
         {
             Console.WriteLine("5-Caracteres e textos executando . . .");
-            // character = 1 caracter e tenque ser com '
+            // character = 1 caracter e tenque ser com ' e ele tambem aceita espaços como caractere
             char primeiraCaractere = 'a';
             Console.WriteLine(primeiraCaractere);
             // é pra printar A
@@ -21,6 +21,15 @@ namespace _5_CaracteresETextos
             // é pra printar B
             primeiraCaractere = (char)(primeiraCaractere + 1);
             //ASCII table
+
+            string titulo = "Militao";
+            Console.WriteLine(titulo);
+
+            // @ serve para aceitar a quebrar linhas 
+            string cursosProgamacao = @"- Java -
+            - Python 
+             - Js";
+            Console.WriteLine(cursosProgamacao);
 
 
             Console.ReadLine();
