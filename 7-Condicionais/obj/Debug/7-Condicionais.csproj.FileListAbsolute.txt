@@ -1,0 +1,7 @@
+C:\Csharp\7-Condicionais\bin\Debug\7-Condicionais.exe.config
+C:\Csharp\7-Condicionais\bin\Debug\7-Condicionais.exe
+C:\Csharp\7-Condicionais\bin\Debug\7-Condicionais.pdb
+C:\Csharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.AssemblyReference.cache
+C:\Csharp\7-Condicionais\obj\Debug\7-Condicionais.csproj.CoreCompileInputs.cache
+C:\Csharp\7-Condicionais\obj\Debug\7-Condicionais.exe
+C:\Csharp\7-Condicionais\obj\Debug\7-Condicionais.pdb

@@ -14,11 +14,12 @@ namespace _6_AtribuiçõesDeVariáveis
 
             int idade = 32;
             int idadeGustavo = idade;
-            //e
+            // o c# n faz o recalculamento do valor idadeGustavo 
 
             idade = 20;
 
             Console.WriteLine(idadeGustavo);
+            Console.WriteLine(idade);
 
 
 
