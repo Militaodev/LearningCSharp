@@ -1,0 +1,7 @@
+C:\Csharp\P12-CalculaInvestimentoALongoPrazo\bin\Debug\P12-CalculaInvestimentoALongoPrazo.exe.config
+C:\Csharp\P12-CalculaInvestimentoALongoPrazo\bin\Debug\P12-CalculaInvestimentoALongoPrazo.exe
+C:\Csharp\P12-CalculaInvestimentoALongoPrazo\bin\Debug\P12-CalculaInvestimentoALongoPrazo.pdb
+C:\Csharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\P12-CalculaInvestimentoALongoPrazo.csproj.AssemblyReference.cache
+C:\Csharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\P12-CalculaInvestimentoALongoPrazo.csproj.CoreCompileInputs.cache
+C:\Csharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\P12-CalculaInvestimentoALongoPrazo.exe
+C:\Csharp\P12-CalculaInvestimentoALongoPrazo\obj\Debug\P12-CalculaInvestimentoALongoPrazo.pdb
